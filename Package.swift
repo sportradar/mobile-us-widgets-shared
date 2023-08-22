@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "shared",
-            url: "https://artifacts.mdp.sportradar.com/apple/native-widgets-core/ba642cee/release/shared-iOS-0.4.13.zip",
-            checksum: "653346d449390454a5b3c55cc008259c6d91fa08add5c7602d577383c2b2650e"
+            url: "https://artifacts.mdp.sportradar.com/apple/native-widgets-core/acfd928e/release/shared-iOS-0.4.13.zip",
+            checksum: "9d76b4175bf6916c243df645be31247cb51bf7f748d89c9e0904d6943d56fb05"
         ),
     ]
 )
